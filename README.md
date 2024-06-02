@@ -48,6 +48,5 @@ In package.json add below entry,
 
   npm login --registry=NexusRepoURL
   
-Execute below command to upload packages to nexus r
   
 
